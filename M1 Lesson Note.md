@@ -34,7 +34,7 @@ A stack is a linear data structure that follows the **LIFO (Last-In, First-Out)*
 
 ---
 
-**State AFTER S.POP()** (C is removed, B becomes the new Top)
+**State AFTER `S.POP()`** (C is removed, B becomes the new Top)
 ```
 +---+
 |   |
